@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vishruta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_4c247c1c5b3c10eae6fd68a052faf7c8f7b55d16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="53cb1d2ccfcefa965c5b708077f538029fbd17c6">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bdc05907ccec4adfd6eb64e360181466bb669c8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_76e73955dafcbc90e1ae1ddb25ccd52132981886\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_d427bbfb24e826d54541782a8f2f10bf5234f164\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_83e497ef82cab2f16d72af04f16f97c1b46e12d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="54b2b5351d31b9e41b39494daabac80f1d8e3951">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment 2\SuperAwesomeContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_68ef126e8d1323ca795bcbd941658bc9651fcd1c\classes.dex" />
+    </item>
+
+</items>

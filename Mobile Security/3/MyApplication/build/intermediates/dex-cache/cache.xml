@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_f3540dd7105266a89fbde54b97fea93f5c1840af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b0cde41450a135558282dff07db72815d432380b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_b84ad9796b57ca5ef5f80f6024fbe16dda5d7f8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c8b17a51d8d66e3d04bba999361de5c032dd3cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_b84ad9796b57ca5ef5f80f6024fbe16dda5d7f8b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_877eba948f353a11fdd0a6c78dc43e9ac0a1595c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_57626f4405351f903228163ba88067ec10deeb9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_b0cde41450a135558282dff07db72815d432380b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_c8b17a51d8d66e3d04bba999361de5c032dd3cd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\libs\additional.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\additional_3516762da95ac6e7433ecd6040f840abffcec7ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_877eba948f353a11fdd0a6c78dc43e9ac0a1595c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_6690adb9092b7342d08e4e681437e45aa08a5c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\mail_fb2252c7408cb58f849d14d5d3ef46d4618a6913.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_6690adb9092b7342d08e4e681437e45aa08a5c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_57626f4405351f903228163ba88067ec10deeb9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\libs\additional.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\additional_3516762da95ac6e7433ecd6040f840abffcec7ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishruta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_40207ebc9c9cfcecaa9bb2f167d4e9f2d6ee56e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4349906015e16c6cf06931d6b8ddcae76a8ee9ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_dea9e080a09230187cd92d1a68c0e1cdb457c012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vishruta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_40207ebc9c9cfcecaa9bb2f167d4e9f2d6ee56e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_dea9e080a09230187cd92d1a68c0e1cdb457c012.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4349906015e16c6cf06931d6b8ddcae76a8ee9ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b288dab121130b099139b16ba4d9c61f8d03d187\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_60c2d3d227dc35aeb3e2597ca6a4b36ba3eb026e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6faba27300da63d4bb037cb6aed9ef5cf4518bbd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_60c2d3d227dc35aeb3e2597ca6a4b36ba3eb026e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6faba27300da63d4bb037cb6aed9ef5cf4518bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\activation_f3540dd7105266a89fbde54b97fea93f5c1840af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_413be345483add1d722786bfd5968133099278f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_b288dab121130b099139b16ba4d9c61f8d03d187.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_413be345483add1d722786bfd5968133099278f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_3970c789829c8702974492ce903d137154081566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c0df8c6067e44496d82e832a83f645e123d39e0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_3970c789829c8702974492ce903d137154081566\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_a2ef3df3907b7f8f78736e3da918ac7a2280a161.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c0df8c6067e44496d82e832a83f645e123d39e0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="578125fabe1e367a74052bb6bbf2810d0e86fe54">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_36aaf6e421024c31c7d538212a328287f613e4ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a2ef3df3907b7f8f78736e3da918ac7a2280a161\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5004b46077c27f74c06bc57e85624c9e0d466f10.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5004b46077c27f74c06bc57e85624c9e0d466f10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7948a3c01fbf5c46b28b2ab0158ab15e960e8a22">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_731a7b8152f6a5f65b28ac5a6e8f32bb5f99ef21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_317c4f3485da43de96f4b7d7430888dbc8b9e4c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_fb2252c7408cb58f849d14d5d3ef46d4618a6913\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\CMU\Fall 2016\Mobile Security\Assignment_3\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_317c4f3485da43de96f4b7d7430888dbc8b9e4c9.jar" />
+    </item>
+
+</items>
